@@ -1,0 +1,2 @@
+# SoneMC
+Minecraft plugins development
