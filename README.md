@@ -1,4 +1,4 @@
-![SoneMC](https://github.com/wejkey/SoneMC/raw/main/images/test2.png)
+![SoneMC](https://github.com/wejkey/SoneMC/raw/main/images/test3.png)
 
 SoneMC is a project of lightweight and customizable Minecraft plugins designed for Spigot, Bukkit, and Paper servers. These plugins are built for Minecraft versions 1.20.x and above, offering simple and user-friendly solutions for server administration.
 
