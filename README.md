@@ -24,7 +24,7 @@ Each plugin is designed to provide an essential function for Minecraft server ad
 
 If you have any issues or questions, feel free to:
 
-- Join the community on [Discord](https://discord.gg/).
+- Join the community on [Discord](https://discord.gg/4QdfHFGe4q).
 - Visit the Spigot page for updates and discussions: [SoneMC on Spigot](https://www.spigotmc.org/members/sonemc.2226356/).
 - Visit the official website for more details: [SoneMC Website](https://wejkey.github.io/sonemc/).
 
